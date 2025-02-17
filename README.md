@@ -8,7 +8,7 @@ E, depois de inserir isso, se pede os dados de dano DA ARMA. Nesse caso lembre-s
 
 Caso seu dano acabei ai, ótimo! Caso não, caso possua dados extras, o código questionará se possui, digitando "s" para sim ou "n" para não.
 Caso a resposta seja não, responda se possui outro ataque. Caso não, novamente, fim!
------
+
 Voltando no tempo, para caso possua dados extras! Você digita "s", para sim, e então, diz quais.
 Aqui você pode responder 2d6, 8d8, d10, mas caso possua, por exemplo, 2d10+3d6, digite apenas 2d10, pois, após isso, o código perguntará se possui mais algum, e siga nesse ritmo.
 Caso pergunte se você possui mais algum ataque, apenas digite "s" e refaça o que foi feito desde o inicío!
