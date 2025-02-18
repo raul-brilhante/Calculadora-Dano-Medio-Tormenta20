@@ -1,4 +1,4 @@
-# Calculadora-Dano-Medio-Tormenta20
+# Calculadora de Dano Médio para o Sistema de RPG Tormenta20 (Jogo do Ano)
 Um projeto simples que eu fiz em C++ para calcular o dano médio de um personagem ou ameaça no sistema de RPG de Mesa Tormenta20. (A utilização de struct se deu apenas para eu ver como era a struct em C++, mas taí)
 
 O programa roda completamente no terminal do windows.
