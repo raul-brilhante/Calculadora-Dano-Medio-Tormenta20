@@ -12,3 +12,6 @@ Caso a resposta seja não, responda se possui outro ataque. Caso não, novamente
 Voltando no tempo, para caso possua dados extras! Você digita "s", para sim, e então, diz quais.
 Aqui você pode responder 2d6, 8d8, d10, mas caso possua, por exemplo, 2d10+3d6, digite apenas 2d10, pois, após isso, o código perguntará se possui mais algum, e siga nesse ritmo.
 Caso pergunte se você possui mais algum ataque, apenas digite "s" e refaça o que foi feito desde o inicío!
+
+
+O .exe já está sendo disponibilizado para rodar em computadores windows, mas, caso deseje, o código está na pasta /code para caso queira compilar, editar, o que quer que seja!
